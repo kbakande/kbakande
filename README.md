@@ -19,7 +19,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 - Endorsed by [Royal Academy of Engineering](https://raeng.org.uk/programmes-and-prizes/programmes/international-programmes/global-talent-visa) as UK Promising Talent
 - My team won the most innovative prize at 2019 [**S2DS**](https://www.s2ds.org/) programme 
 
-## 🚢 Working on...
+## 🚢 Open source projects
 
 ### [Machine Learning Models as Product (MLMaP)](https://github.com/kbakande/pet-adoption-classifier) 
 
