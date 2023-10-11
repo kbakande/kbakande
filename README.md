@@ -17,7 +17,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 - I also built a personalised recommender system (Digital Waiter) [**@Mindful Chef**](https://www.mindfulchef.com/)
 - My innovative activities led to three granted [US patents](https://uspto.report/company/Akande-Kabiru) and over 50 peer-reviewed [publications](https://scholar.google.co.uk/citations?user=PiWvuqYAAAAJ&hl=en).
 - I hold  [**GCP ML Engineer**](https://www.credential.net/cf4c85e8-6e3b-4791-8ed5-8ad20af8f841?key=692460154c57397d4e6268c41719c602a87fa98011d70b86adf7570070660436) and [**HashiCorp Terraform Associate (003)**](https://www.credly.com/badges/eacd21df-2f7a-4690-bc69-7d90b5301343/public_url) certifications
-- I am endorsed by UK [Royal Academy of Engineering](https://raeng.org.uk/programmes-and-prizes/programmes/international-programmes/global-talent-visa) as UK Promising Talent
+- I am endorsed by [Royal Academy of Engineering](https://raeng.org.uk/programmes-and-prizes/programmes/international-programmes/global-talent-visa) as UK Promising Talent
 - My team won the most innovative prize at 2019 [**S2DS**] programme (https://www.s2ds.org/)
 
 🚢 Working on...
