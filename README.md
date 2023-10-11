@@ -22,7 +22,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
 🚢 Working on...
 
-- MLPipelines
+- [ML pipelining](https://github.com/kbakande/pet-adoption-classifier)
 
 ## 🌍🛠 Languages and tools 
 
