@@ -8,7 +8,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koakande/)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=FFFFFF)](https://scholar.google.com/citations?user=PiWvuqYAAAAJ&hl=en)
-[![Blog](https://img.shields.io/badge/-Blog-3775A9?style=for-the-badge&logo=PyPI&logoColor=FFFFFF)](https://kbakande.github.io/)
+[![Blog](https://img.shields.io/badge/-Blog-3775A9?style=for-the-badge&logo=Blog&logoColor=FFFFFF)](https://kbakande.github.io/)
 
 ## 🚀 (Some) highlights
 
