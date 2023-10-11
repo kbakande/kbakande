@@ -1,10 +1,10 @@
 # Hiya! 👋
 
-My name is **Kabeer Akande**, and I'm a senior machine learning engineer @[**@OVO**](https://www.ovoenergy.com/)!
+My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**OVO**](https://www.ovoenergy.com/)!
 
-- 💛 I love using machine learning (ML) to solve hard problems, productionising products, and streamlining and optimising code and pipelines!
+- 💛 I love productionising ML products and building scalable ML pipelines
 - 🌱 Working on my open-source projects!
-- 🔭 Formerly at [**@BigDEAL**](https://www1.uwe.ac.uk/bl/research/big-deal.aspx), [**@S2DS**](http://www.s2ds.org/), [**@MindfulChef**](https://www.mindfulchef.com/), and [**@UOE**](https://www.eng.ed.ac.uk/)
+- 🔭 Formerly at [**BigDEAL**](https://www1.uwe.ac.uk/bl/research/big-deal.aspx), [**S2DS**](http://www.s2ds.org/), [**MindfulChef**](https://www.mindfulchef.com/), and [**UOE**](https://www.eng.ed.ac.uk/)
 
 
 [![LinkedIn](https://img.shields.io/badge/-Kabeer%20Akande-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/koakande/)
@@ -13,11 +13,12 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer @[**@OV
 
 ## 🚀 (Some) highlights
 
-- Shipped foundational products for robust ML projects using MLOps best practice in a nascent data science team
-- I built a first-of-its-kind Alexa-type conversational bot for the construction industry @[**@BigDEAL**](https://www1.uwe.ac.uk/bl/research/big-deal.aspx)
-- I also developed a personal recipe recommender system for [**@Mindful Chef**](https://www.mindfulchef.com/) during my time there
+- Built Alexa-type chatbot (Conversational-BIM) with AWS [**@BigDEAL**](https://www1.uwe.ac.uk/bl/research/big-deal.aspx)
+- I also built a personalised recommender system (Digital Waiter) using innovative recipe embeddings (recipe2vector) for [**@Mindful Chef**](https://www.mindfulchef.com/)
 - My innovative activities led to three granted [US patents](https://uspto.report/company/Akande-Kabiru) and over 50 peer-reviewed [publications](https://scholar.google.co.uk/citations?user=PiWvuqYAAAAJ&hl=en).
-- Led multidisciplinary team of data scientists, engineers, and analysts to deliver content insight and optimisation products
+- I hold  [**GCP ML Engineer](https://www.credential.net/cf4c85e8-6e3b-4791-8ed5-8ad20af8f841?key=692460154c57397d4e6268c41719c602a87fa98011d70b86adf7570070660436) and [HashiCorp Terraform Associate (003)](https://www.credly.com/badges/eacd21df-2f7a-4690-bc69-7d90b5301343/public_url) certifications
+- I am endorsed by UK [Royal Academy of Engineering](https://raeng.org.uk/programmes-and-prizes/programmes/international-programmes/global-talent-visa) as UK Promising Talent
+- My team won the most innovative prize at 2019 [**S2DS**] programme (https://www.s2ds.org/)
 
 🚢 Working on...
 
@@ -64,6 +65,6 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer @[**@OV
 ## 🧮 GitHub statistics
 
 <p>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Kabeer&count_private=true&show_icons=true&hide_title=true" alt="Kabeer's GitHub statistics">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=kbakande&count_private=true&show_icons=true&hide_title=true" alt="Kabeer's GitHub statistics">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbakande&layout=compact&custom_title=Most%20used%20languages" alt="Kabeer's most used languages">
 </p>
