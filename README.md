@@ -6,9 +6,9 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 - 🔭 Formerly at [**BigDEAL**](https://www1.uwe.ac.uk/bl/research/big-deal.aspx), [**S2DS**](http://www.s2ds.org/), [**MindfulChef**](https://www.mindfulchef.com/), and [**UOE**](https://www.eng.ed.ac.uk/)
 
 
-[![LinkedIn](https://img.shields.io/badge/-Kabeer%20Akande-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/koakande/)
-[![Google Scholar](https://img.shields.io/badge/-Kabeer%20Akande-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=FFFFFF)](https://scholar.google.com/citations?user=PiWvuqYAAAAJ&hl=en)
-[![Blog](https://img.shields.io/badge/-Kabeer%20Akande-3775A9?style=for-the-badge&logo=PyPI&logoColor=FFFFFF)](https://kbakande.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koakande/)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=FFFFFF)](https://scholar.google.com/citations?user=PiWvuqYAAAAJ&hl=en)
+[![Blog](https://img.shields.io/badge/-Blog-3775A9?style=for-the-badge&logo=PyPI&logoColor=FFFFFF)](https://kbakande.github.io/)
 
 ## 🚀 (Some) highlights
 
