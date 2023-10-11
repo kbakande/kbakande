@@ -21,7 +21,9 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
 🚢 Working on...
 
-- [ML pipelining](https://github.com/kbakande/pet-adoption-classifier)
+- [Machine Learning Models as Product (MLMaP)](https://github.com/kbakande/pet-adoption-classifier) 
+
+MLMaP is a paradigm shift in ML modelling. It demonstrates building ML algorithms as software products thus, enabling data scientists and ML engineers to package models similar to how software developers and engineers ship software applications. It is a step towards MLOps implementation. 
 
 ## 🌍🛠 Languages and tools 
 
@@ -29,31 +31,24 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
 [![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=FFFFFF)](https://www.atlassian.com/software/confluence/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/)
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://www.github.com/)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=FFFFFF)](https://github.com/features/actions/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira-Software&logoColor=FFFFFF)](https://www.atlassian.com/software/jira/)
+[![YAML](https://img.shields.io/badge/-YAML-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://yaml.org/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF)](https://jupyter.org/)
 [![Poetry](https://img.shields.io/badge/-Poetry-60A5FA?style=for-the-badge&logo=Poetry&logoColor=FFFFFF)](https://python-poetry.org/)
 [![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=000000)](https://pre-commit.com/)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
 [![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=FFFFFF)](https://docs.pytest.org/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)](https://scikit-learn.org/)
-[![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=FFFFFF)](https://www.scipy.org/)
-[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF)](https://slack.com/)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=&logoColor=FFFFFF)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=FFFFFF)](https://code.visualstudio.com/)
 
 🎉 Delivered projects using...
 
-[![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FFFFFF)](https://aws.amazon.com/)
 [![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)](https://cloud.google.com/)
+[![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
 [![Kubeflow](https://img.shields.io/badge/-Kubeflow-213D7A?style=for-the-badge&logo=Kubeflow&logoColor=FFFFFF)](https://www.kubeflow.org/)
-[![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=FFFFFF)](https://www.latex-project.org/)
-[![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=FFFFFF)](https://www.mathworks.com/products/matlab.html)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)(https://www.terraform.io/)
 
 📚 Learning with...
 
