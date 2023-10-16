@@ -18,6 +18,9 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 - Hold  [**GCP ML Engineer**](https://www.credential.net/cf4c85e8-6e3b-4791-8ed5-8ad20af8f841?key=692460154c57397d4e6268c41719c602a87fa98011d70b86adf7570070660436) and [**HashiCorp Terraform Associate (003)**](https://www.credly.com/badges/eacd21df-2f7a-4690-bc69-7d90b5301343/public_url) certifications
 - Endorsed by [Royal Academy of Engineering](https://raeng.org.uk/programmes-and-prizes/programmes/international-programmes/global-talent-visa) as UK Promising Talent
 - My team won the most innovative prize at 2019 [**S2DS**](https://www.s2ds.org/) programme 
+- [Grant](https://icc2018.ieee-icc.org/authors/student-travel-grants.html#comsoc) winner at COMSOC IEEE ICC 2018 US conference
+- Techical volunteer at [codeyourfuture](https://codeyourfuture.io/)
+
 
 ## 🚢 Open source projects
 
@@ -48,7 +51,8 @@ MLMaP is a paradigm shift in ML modelling. It demonstrates building ML algorithm
 [![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)](https://cloud.google.com/)
 [![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
 [![Kubeflow](https://img.shields.io/badge/-Kubeflow-213D7A?style=for-the-badge&logo=Kubeflow&logoColor=FFFFFF)](https://www.kubeflow.org/)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)(https://www.terraform.io/)
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+
 
 📚 Learning with...
 
