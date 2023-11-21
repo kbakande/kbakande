@@ -19,7 +19,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 - Endorsed by [Royal Academy of Engineering](https://raeng.org.uk/programmes-and-prizes/programmes/international-programmes/global-talent-visa) as UK Promising Talent
 - My team won the most innovative prize at 2019 [**S2DS**](https://www.s2ds.org/) programme 
 - [Grant](https://icc2018.ieee-icc.org/authors/student-travel-grants.html#comsoc) winner at COMSOC IEEE ICC 2018 US conference
-- Techical volunteer at [codeyourfuture](https://codeyourfuture.io/)
+- Technical volunteer at [codeyourfuture](https://codeyourfuture.io/)
 
 
 ## 🚢 Open source projects
