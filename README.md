@@ -40,7 +40,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=FFFFFF)](https://github.com/features/actions/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira-Software&logoColor=FFFFFF)](https://www.atlassian.com/software/jira/)
-[![YAML](https://img.shields.io/badge/-YAML-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://yaml.org/)
+[![YAML](https://img.shields.io/badge/-YAML-0A66C2?style=for-the-badge&logo=YAML&logoColor=FFFFFF)](https://yaml.org/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF)](https://jupyter.org/)
 [![Poetry](https://img.shields.io/badge/-Poetry-60A5FA?style=for-the-badge&logo=Poetry&logoColor=FFFFFF)](https://python-poetry.org/)
 [![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=000000)](https://pre-commit.com/)
