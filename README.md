@@ -11,7 +11,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 [![Blog](https://img.shields.io/badge/-Blog-3775A9?style=for-the-badge&logo=medium&logoColor=white)](https://kbakande.github.io/)
 
 ## 🚀 (Some) highlights
-
+- Built MLOPS platforms with Airflow and Vertex AI pipelines [**@OVO**](https://www.ovoenergy.com/)
 - Built Alexa-type chatbot (Conversational-BIM) with AWS [**@BigDEAL**](https://www1.uwe.ac.uk/bl/research/big-deal.aspx)
 - Developed a personalised recommender system (Digital Waiter) [**@Mindful Chef**](https://www.mindfulchef.com/)
 - Innovations led to three granted [**US patents**](https://uspto.report/company/Akande-Kabiru) and over 50 peer-reviewed [**publications**](https://scholar.google.co.uk/citations?user=PiWvuqYAAAAJ&hl=en)
@@ -24,15 +24,18 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
 ## 🚢 Open source projects
 
+### [MLOPS Platform](https://github.com/kbakande/MLOPS-Platform) 
+
+`MLOPS_Platform` is a robust machine learning platform designed to streamline ML workflows on Google Cloud Platform (GCP) resources. Following best practices in MLOps and DevOps, it offers a structured and efficient approach to managing data loading, preprocessing, model training, evaluation, and deployment. It features automated scaling, testing, integration, documentation, and deployment.
+
 ### [Machine Learning Models as Product (MLMaP)](https://github.com/kbakande/pet-adoption-classifier) 
 
-MLMaP is a paradigm shift in ML modelling. It demonstrates building ML algorithms as software products thus, enabling data scientists and ML engineers to package models similar to how software developers and engineers ship software applications. It is a step towards MLOps implementation. 
+`MLMaP`` is a paradigm shift in ML modelling. It demonstrates building ML algorithms as software products thus, enabling data scientists and ML engineers to package models similar to how software developers and engineers ship software applications. It is a step towards MLOps implementation. 
 
 ## 🌍🛠 Languages and tools 
 
 👨‍💻 Regularly using...
-
-[![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=FFFFFF)](https://www.atlassian.com/software/confluence/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=FFFFFF)](https://github.com/features/actions/)
