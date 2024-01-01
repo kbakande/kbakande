@@ -35,7 +35,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 ## 🌍🛠 Languages and tools 
 
 👨‍💻 Regularly using...
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/)
+[![Makefile](https://img.shields.io/badge/-Makefile-2496ED?style=for-the-badge&logo=Makefile&logoColor=FFFFFF)](https://makefile.site/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=FFFFFF)](https://github.com/features/actions/)
@@ -47,6 +47,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 [![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=FFFFFF)](https://docs.pytest.org/)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=&logoColor=FFFFFF)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=FFFFFF)](https://code.visualstudio.com/)
+[![Sphinx](https://img.shields.io/badge/-Sphinx-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=FFFFFF)](https://www.sphinx-doc.org/en/master/#)
 
 🎉 Delivered projects using...
 
