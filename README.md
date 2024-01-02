@@ -28,7 +28,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
 `MLOPS_Platform` is a robust machine learning platform designed to streamline ML workflows on Google Cloud Platform (GCP) resources. Following best practices in MLOps and DevOps, it offers a structured and efficient approach to managing data loading, preprocessing, model training, evaluation, and deployment. It features automated scaling, testing, integration, documentation, and deployment.
 
-   ## Pipeline Visualization
+   #### Pipeline Visualization
 
    Below is a visualization of the MLPlatform pipeline components as executed on Vertex AI:
 
@@ -49,8 +49,11 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 `MLMaP`` is a paradigm shift in ML modelling. It demonstrates building ML algorithms as software products thus, enabling data scientists and ML engineers to package models similar to how software developers and engineers ship software applications. It is a step towards MLOps implementation. 
 
 ### [Named Entity Recognition App (NER)](https://github.com/kbakande/named-entity-recognition)
-`NER` is a Named Entity Recognition (NER) application. The app is built using Hugging Face's Transformers and Gradio, allowing users to input text and receive identified named entities. It utilizes a fine-tuned BERT model (`koakande/bert-finetuned-ner`) for high-accuracy entity recognition.Try it out on my [Hugging space](https://huggingface.co/spaces/koakande/named_entity_recognition)
-![NER](images/named_entity_viz.png)
+`NER` is a Named Entity Recognition (NER) application. The app is built using Hugging Face's Transformers and Gradio, allowing users to input text and receive identified named entities. It utilizes a fine-tuned BERT model (`koakande/bert-finetuned-ner`) for high-accuracy entity recognition. You can try it out on my [Hugging space](https://huggingface.co/spaces/koakande/named_entity_recognition)
+
+   #### NER App Demo
+
+   ![NER](images/named_entity_viz.png)
 
 ## 🌍🛠 Languages and tools 
 
