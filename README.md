@@ -30,7 +30,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
    #### Pipeline Visualization
 
-   Below is a visualization of the MLPlatform pipeline components as executed on Vertex AI:
+   Below is a visualization of the MLOPS Platform pipeline components as executed on Vertex AI:
 
    ![MLPlatform Pipeline on Vertex AI](images/mlpipeline.png)
 
@@ -46,6 +46,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 ## 🌍🛠 Languages and tools 
 
 👨‍💻 Regularly using...
+
 [![Makefile](https://img.shields.io/badge/-Makefile-2496ED?style=for-the-badge&logo=Makefile&logoColor=FFFFFF)](https://makefile.site/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
