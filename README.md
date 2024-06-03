@@ -37,6 +37,10 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
 ### [Terraforming Dataform](https://github.com/kbakande/terraforming-dataform) 
 `Terraforming Dataform` establishes the fundamentals of a single repo, multi-environment Dataform with least-privilege access control and infrastructure as code setup. Datailed explanation of the workflow is published on my [Medium](https://towardsdatascience.com/understanding-dataform-terminologies-and-authentication-flow-aa98c2fbcdfb) page.
+  
+  #### Architecture
+
+![Dataform Architecture](images/dataform_architecture.png)
 
 ### [Machine Learning Models as Product (MLMaP)](https://github.com/kbakande/pet-adoption-classifier) 
 
