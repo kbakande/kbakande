@@ -8,7 +8,8 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koakande/)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=FFFFFF)](https://scholar.google.com/citations?user=PiWvuqYAAAAJ&hl=en)
-[![Blog](https://img.shields.io/badge/-Blog-3775A9?style=for-the-badge&logo=medium&logoColor=white)](https://kbakande.github.io/)
+<!-- [![Blog](https://img.shields.io/badge/-Blog-3775A9?style=for-the-badge&logo=medium&logoColor=white)](https://kbakande.github.io/) -->
+[![Blog](https://img.shields.io/badge/-Blog-3775A9?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@koakande)
 
 ## 🚀 (Some) highlights
 - Built MLOPS platforms with Airflow and Vertex AI pipelines [**@OVO**](https://www.ovoenergy.com/)
@@ -34,9 +35,12 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
    ![MLPlatform Pipeline on Vertex AI](images/mlpipeline.png)
 
+### [Terraforming Dataform](https://github.com/kbakande/terraforming-dataform) 
+`Terraforming Dataform` establishes the fundamentals of a single repo, multi-environment Dataform with least-privilege access control and infrastructure as code setup. Datailed explanation of the workflow is published on my [Medium](https://towardsdatascience.com/understanding-dataform-terminologies-and-authentication-flow-aa98c2fbcdfb) page.
+
 ### [Machine Learning Models as Product (MLMaP)](https://github.com/kbakande/pet-adoption-classifier) 
 
-`MLMaP`` is a paradigm shift in ML modelling. It demonstrates building ML algorithms as software products thus, enabling data scientists and ML engineers to package models similar to how software developers and engineers ship software applications. It is a step towards MLOps implementation. 
+`MLMaP` is a paradigm shift in ML modelling. It demonstrates building ML algorithms as software products thus, enabling data scientists and ML engineers to package models similar to how software developers and engineers ship software applications. It is a step towards MLOps implementation. 
 
 ### [Named Entity Recognition App (NER)](https://github.com/kbakande/named-entity-recognition)
 `NER` is a Named Entity Recognition (NER) application. The app is built using Hugging Face's Transformers and Gradio, allowing users to input text and receive identified named entities. It utilizes a fine-tuned BERT model (`koakande/bert-finetuned-ner`) for high-accuracy entity recognition. You can try it out on my [Hugging space](https://huggingface.co/spaces/koakande/named_entity_recognition)
