@@ -27,7 +27,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
 ### [MLOPS Platform](https://github.com/kbakande/MLOPS-Platform) 
 
-`MLOPS_Platform` is a robust machine learning platform designed to streamline ML workflows on Google Cloud Platform (GCP) resources. Following best practices in MLOps and DevOps, it offers a structured and efficient approach to managing data loading, preprocessing, model training, evaluation, and deployment. It features automated scaling, testing, integration, documentation, and deployment. If you want to find out more, I have published a development roadmap on my [Medium](https://towardsdatascience.com/extensible-and-customisable-vertex-ai-mlops-platform-a2c146d13186) page. 
+`MLOPS_Platform` is a robust machine learning platform designed to streamline ML workflows on Google Cloud Platform (GCP) resources. Following best practices in MLOps and DevOps, it offers a structured and efficient approach to managing data loading, preprocessing, model training, evaluation, and deployment. It features automated scaling, testing, integration, documentation, and deployment. If you want to find out more, I have published a development roadmap on my [Medium](https://towardsdatascience.com/extensible-and-customisable-vertex-ai-mlops-platform-a2c146d13186){:target="_blank"} page. 
 
    #### Pipeline Visualization
 
@@ -35,7 +35,7 @@ My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**O
 
    ![MLPlatform Pipeline on Vertex AI](images/mlpipeline.png)
 
-### [Terraforming Dataform](https://github.com/kbakande/terraforming-dataform) 
+### [Terraforming Dataform](https://github.com/kbakande/terraforming-dataform)
 `Terraforming Dataform` establishes the fundamentals of a single repo, multi-environment Dataform with least-privilege access control and infrastructure as code setup. Datailed explanation of the workflow is published on my [Medium](https://towardsdatascience.com/understanding-dataform-terminologies-and-authentication-flow-aa98c2fbcdfb) page.
   
   #### Architecture
