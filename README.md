@@ -1,6 +1,6 @@
 # Hiya! 👋
 
-My name is **Kabeer Akande**, and I'm a senior machine learning engineer at [**OVO**](https://www.ovoenergy.com/)!
+My name is **Kabeer Akande**, and I am a senior machine learning engineer at [**OVO**](https://www.ovoenergy.com/)!
 
 - 💛 I love productionising ML products and building scalable ML pipelines
 - 🔭 Formerly at [**BigDEAL**](https://www1.uwe.ac.uk/bl/research/big-deal.aspx), [**S2DS**](http://www.s2ds.org/), [**MindfulChef**](https://www.mindfulchef.com/), and [**UOE**](https://www.eng.ed.ac.uk/)
