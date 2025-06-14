@@ -16,7 +16,7 @@ My name is **Kabeer Akande**, and I am a senior machine learning engineer at [**
 - Built Alexa-type chatbot (Conversational-BIM) with AWS [**@BigDEAL**](https://www1.uwe.ac.uk/bl/research/big-deal.aspx)
 - Developed a personalised recommender system (Digital Waiter) [**@Mindful Chef**](https://www.mindfulchef.com/)
 - Innovations led to three granted [**US patents**](https://uspto.report/company/Akande-Kabiru) and over 50 peer-reviewed [**publications**](https://scholar.google.co.uk/citations?user=PiWvuqYAAAAJ&hl=en)
-- Hold  [**GCP ML Engineer**](https://www.credential.net/cf4c85e8-6e3b-4791-8ed5-8ad20af8f841?key=692460154c57397d4e6268c41719c602a87fa98011d70b86adf7570070660436) and [**HashiCorp Terraform Associate (003)**](https://www.credly.com/badges/eacd21df-2f7a-4690-bc69-7d90b5301343/public_url) certifications
+- Hold  [**GCP ML Engineer**](https://www.credential.net/cf4c85e8-6e3b-4791-8ed5-8ad20af8f841?key=692460154c57397d4e6268c41719c602a87fa98011d70b86adf7570070660436), [**AWS ML Engineer**](https://cp.certmetrics.com/amazon/en/public/verify/credential/df38401ae9784417a1a0fe0dbea0943c) and [**HashiCorp Terraform Associate (003)**](https://www.credly.com/badges/eacd21df-2f7a-4690-bc69-7d90b5301343/public_url) certifications
 - Endorsed by [Royal Academy of Engineering](https://raeng.org.uk/programmes-and-prizes/programmes/international-programmes/global-talent-visa) as UK Promising Talent
 - My team won the most innovative prize at 2019 [**S2DS**](https://www.s2ds.org/) programme 
 - [Grant](https://icc2018.ieee-icc.org/authors/student-travel-grants.html#comsoc) winner at COMSOC IEEE ICC 2018 US conference
