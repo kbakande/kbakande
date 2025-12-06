@@ -21,7 +21,7 @@ My name is **Kabeer Akande**, and I am a senior machine learning engineer at [**
 - My team won the most innovative prize at 2019 [**S2DS**](https://www.s2ds.org/) programme 
 - [Grant](https://icc2018.ieee-icc.org/authors/student-travel-grants.html#comsoc) winner at COMSOC IEEE ICC 2018 US conference
 - Volunteering and mentoring at [codeyourfuture](https://codeyourfuture.io/)
-- Mentoring at [Blackindata]([https://codeyourfuture.io/](https://www.blackindata.co.uk/))
+- Mentoring at [Blackindata](https://www.blackindata.co.uk/)
 
 
 ## 🚢 Open source projects
