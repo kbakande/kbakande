@@ -3,7 +3,7 @@
 My name is **Kabeer Akande**, and I am a senior machine learning engineer at [**OVO**](https://www.ovoenergy.com/)!
 
 - 💛 I love productionising ML products and building scalable ML pipelines
-- 🔭 Formerly at [**BigDEAL**](https://www1.uwe.ac.uk/bl/research/big-deal.aspx), [**S2DS**](http://www.s2ds.org/), [**MindfulChef**](https://www.mindfulchef.com/), and [**UOE**](https://www.eng.ed.ac.uk/)
+- 🔭 Formerly at [**BigDEAL**](https://www1.uwe.ac.uk/bl/research/big-deal.aspx), [**S2DS**](http://www.s2ds.org/), [**MindfulChef**](https://www.mindfulchef.com/), and [**UOE**](https://www.optical-communications.eng.ed.ac.uk/research-students-and-fellows)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koakande/)
