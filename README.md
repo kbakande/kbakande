@@ -2,7 +2,7 @@
 
 My name is **Kabeer Akande**, and I am an AI engineering tech lead at [**Accenture**](https://www.accenture.com/en)!
 
-- 💛 I love productionising ML products and building scalable ML pipelines
+- 💛 I love productionising AI products and building scalable AI pipelines
 - 🔭 Formerly at [**OVO**](https://www.ovoenergy.com/), [**BigDEAL**](https://www1.uwe.ac.uk/bl/research/big-deal.aspx), [**S2DS**](http://www.s2ds.org/), [**MindfulChef**](https://www.mindfulchef.com/), and [**UOE**](https://www.optical-communications.eng.ed.ac.uk/research-students-and-fellows)
 
 
